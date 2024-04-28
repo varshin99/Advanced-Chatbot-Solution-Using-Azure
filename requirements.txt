@@ -1,4 +1,3 @@
-distutils
 chromadb==0.3.21
 langchain==0.0.150
 openai==0.27.6
