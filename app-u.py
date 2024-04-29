@@ -11,7 +11,7 @@ from langchain.agents.agent_toolkits import (
 )
 
 # Initialize Streamlit app with finance-related title and icon
-st.set_page_config(page_title="Finance GPT", page_icon="💲", layout="wide")
+st.set_page_config(page_title="Finance GPT", page_icon=":dollar:", layout="wide")
 
 # Use custom styling for headers and content
 st.markdown("""
