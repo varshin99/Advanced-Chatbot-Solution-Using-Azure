@@ -4,3 +4,4 @@ openai==0.27.6
 pypdf==3.8.1
 streamlit==1.22.0
 tiktoken==0.3.3
+pycryptodome>=3.9.9
